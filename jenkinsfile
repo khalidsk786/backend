@@ -10,7 +10,7 @@ pipeline {
     }
     environment {
         DEBUG = 'true'
-        appVersion = '' // this will be become global we can use across pipeline
+        appVersion = ''    //this will be become global we can use across pipeline
         
     }
         
